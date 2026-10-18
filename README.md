@@ -89,32 +89,6 @@ A real-time collaborative development platform with AI-assisted code generation.
 
 🔗 **[View Repository](https://github.com/ujjwaltyagivashishtha/Fusion-AI-Studio)**
 
-## 💼 Experience
-
-### Web Development Intern — 3Skill
-**June 2026 – August 2026**
-
-- Developed responsive web applications using HTML, CSS, JavaScript, and React.js.
-- Built and integrated RESTful APIs using Node.js and Express.js.
-- Worked with MongoDB and Mongoose for database integration and data management.
-- Debugged and optimized applications using Git and modular development practices.
-
-## 🎓 Education
-
-**Quantum University** — Roorkee, Uttarakhand, India
-
-- Bachelor of Technology in Computer Science and Engineering
-- **CGPA:** 7.99
-- **Duration:** 2023–2027 (expected)
-- **Minor:** Data Analytics
-
-**Senior Secondary Education (Class XII)** — 2023
-
-## 📜 Certifications
-
-- AI Foundation — IIT Mandi iHub & HCi Foundation
-- Database Foundations and Design
-
 </div>
 
 ## 🤝 Let's Connect
