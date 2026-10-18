@@ -7,9 +7,9 @@
 
 I build full-stack applications with a focus on backend logic, reliable APIs, data integrity, and practical developer tools.
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)]([https://github.com/YOUR_GITHUB_USERNAME](https://github.com/ujjwaltyagivashishtha))
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([YOUR_LINKEDIN_URL](https://www.linkedin.com/in/ujjwal-tyagi-0a3798386))
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)]([YOUR_LEETCODE_URL](https://leetcode.com/u/ujjwaltyagivashishtha_178/))
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ujjwaltyagivashishtha)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ujjwal-tyagi-0a3798386/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/ujjwaltyagivashishtha_178/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ujjwaltyagivashishtha@gmail.com)
 
 </div>
@@ -18,9 +18,9 @@ I build full-stack applications with a focus on backend logic, reliable APIs, da
 
 ## 👨‍💻 About Me
 
-- 🎓 Pursuing a **B.Tech in Computer Science and Engineering** at Quantum University; expected graduation in 2027.
+- 🎓 Pursuing a **B.Tech in Computer Science and Engineering** at Quantum University, expected graduation in 2027.
 - 🧩 Interested in backend engineering, REST APIs, databases, authentication, and system reliability.
-- 💼 Web Development Intern at **3Skill** (June–August 2026).
+- 💼 Completed a Web Development Internship at **3Skill** (June–August 2026).
 - 🌱 Continuously strengthening my skills in **Java, Data Structures and Algorithms, and backend development**.
 - 📍 Based in Saharanpur, Uttar Pradesh, India.
 
@@ -60,66 +60,71 @@ I build full-stack applications with a focus on backend logic, reliable APIs, da
 
 ## 🚀 Featured Projects
 
-### 1. Bank Transaction System
+### 🏦 Bank Transaction System
 
 A full-stack banking application focused on transaction integrity and secure money transfers.
 
 - Implemented authentication, account management, and fund transfers.
 - Designed an immutable **double-entry ledger**, deriving balances through MongoDB aggregation.
-- Added account-ownership validation, atomic transactions, and race-safe idempotency.
-- Built REST APIs and a React dashboard with transaction tracking and email notifications.
+- Added account ownership validation, atomic transactions, and race-safe idempotency.
+- Built REST APIs and a React dashboard with transaction tracking and automated email notifications.
 
-**Tech:** React, Tailwind CSS, Node.js, Express.js, MongoDB, Mongoose, JWT
+**Tech Stack:** React, Tailwind CSS, Node.js, Express.js, MongoDB, Mongoose, JWT
 
-[View Repository](YOUR_BANK_TRANSACTION_SYSTEM_REPO_URL)
+🔗 **[View Repository](https://github.com/ujjwaltyagivashishtha/bank-transaction-system)**
 
-### 2. Fusion AI Studio
+---
+
+### 🤖 Fusion AI Studio
 
 A real-time collaborative development platform with AI-assisted code generation.
 
-- Built with the MERN stack and project and collaborator workflows.
+- Built a collaborative development platform using the MERN stack.
+- Implemented project management, user authentication, and collaborator workflows.
 - Integrated Socket.IO for real-time project chat.
 - Integrated the Google Gemini API for AI-powered code generation.
 - Added a file tree, code editor, and WebContainer API to run code in the browser.
 
-**Tech:** MongoDB, Express.js, React, Node.js, Socket.IO, Google Gemini API, WebContainer API
+**Tech Stack:** MongoDB, Express.js, React.js, Node.js, Socket.IO, Google Gemini API, WebContainer API
 
-[View Repository](YOUR_FUSION_AI_STUDIO_REPO_URL)
+🔗 **[View Repository](https://github.com/ujjwaltyagivashishtha/Fusion-AI-Studio)**
 
 ## 💼 Experience
 
-**Web Development Intern — 3Skill**  
-*June 2026 – August 2026*
+### Web Development Intern — 3Skill
+**June 2026 – August 2026**
 
-- Developed responsive web applications using HTML, CSS, JavaScript, and React.
-- Built and integrated RESTful APIs with Node.js and Express.js.
-- Used MongoDB and Mongoose for database integration and data management.
-- Debugged and optimized applications with Git and modular development practices.
+- Developed responsive web applications using HTML, CSS, JavaScript, and React.js.
+- Built and integrated RESTful APIs using Node.js and Express.js.
+- Worked with MongoDB and Mongoose for database integration and data management.
+- Debugged and optimized applications using Git and modular development practices.
 
-## 🎓 Education & Certifications
+## 🎓 Education
 
-- **B.Tech, Computer Science and Engineering** — Quantum University  
-  2023–2027 (expected) · CGPA: 7.99 · Minor in Data Analytics
-- **AI Foundation** — IIT Mandi iHub & HCi Foundation
-- **Database Foundations and Design**
+**Quantum University** — Roorkee, Uttarakhand, India
 
+- Bachelor of Technology in Computer Science and Engineering
+- **CGPA:** 7.99
+- **Duration:** 2023–2027 (expected)
+- **Minor:** Data Analytics
 
-## 📊 GitHub
+**Senior Secondary Education (Class XII)** — 2023
 
-You can explore my repositories, review my projects, and follow my development journey on GitHub.
+## 📜 Certifications
 
-- [Explore My Repositories](https://github.com/YOUR_GITHUB_USERNAME?tab=repositories)
-- [View My Contributions](https://github.com/YOUR_GITHUB_USERNAME)
+- AI Foundation — IIT Mandi iHub & HCi Foundation
+- Database Foundations and Design
 
----
+</div>
 
 ## 🤝 Let's Connect
 
 I'm interested in connecting with developers, learning from the community, and exploring software development opportunities.
 
-- **Email:** ujjwaltyagivashishtha@gmail.com
-- **LinkedIn:** [Connect with me](YOUR_LINKEDIN_URL)
-- **LeetCode:** [Find me on LeetCode](YOUR_LEETCODE_URL)
+- 📧 **Email:** [ujjwaltyagivashishtha@gmail.com](mailto:ujjwaltyagivashishtha@gmail.com)
+- 💼 **LinkedIn:** [Connect with me](https://www.linkedin.com/in/ujjwal-tyagi-0a3798386/)
+- 💻 **GitHub:** [Explore my repositories](https://github.com/ujjwaltyagivashishtha)
+- 🧠 **LeetCode:** [View my profile](https://leetcode.com/u/ujjwaltyagivashishtha_178/)
 
 ---
 
