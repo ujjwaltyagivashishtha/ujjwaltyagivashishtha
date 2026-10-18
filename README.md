@@ -104,6 +104,6 @@ I'm interested in connecting with developers, learning from the community, and e
 
 <div align="center">
 
-*Building thoughtfully. Learning continuously. Improving one commit at a time.*
+*Building thoughtfully. Learning continuously. Improving every day.*
 
 </div>
